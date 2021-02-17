@@ -47,16 +47,12 @@ This portfolio of Apps enables me to use the Android development platform best-p
 ### Screenshots
 <img src="https://github.com/thatsabhi22/spacebinge-app/blob/master/Screenshots/s1.png" width="40%"/><img src="https://github.com/thatsabhi22/spacebinge-app/blob/master/Screenshots/s2.png" width="40%"/> <img src="https://github.com/thatsabhi22/spacebinge-app/blob/master/Screenshots/s3.png" width="40%"/><img src="https://github.com/thatsabhi22/spacebinge-app/blob/master/Screenshots/s4.png" width="40%"/><img src="https://github.com/thatsabhi22/spacebinge-app/blob/master/Screenshots/s5.png" width="40%"/><img src="https://github.com/thatsabhi22/spacebinge-app/blob/master/Screenshots/s6.png" width="40%"/><img src="https://github.com/thatsabhi22/spacebinge-app/blob/master/Screenshots/s7.png" width="40%"/><img src="https://github.com/thatsabhi22/spacebinge-app/blob/master/Screenshots/s8.png" width="60%"/><img src="https://github.com/thatsabhi22/spacebinge-app/blob/master/Screenshots/s9.png" width="40%"/><img src="https://github.com/thatsabhi22/spacebinge-app/blob/master/Screenshots/s10.png" width="40%"/>
 
-#### Review from the Reviewer (Udacity)
-<p align="left">
-<image src="https://github.com/thatsabhi22/spacebinge-app/blob/master/CapstoneReview.png" width="35%"/>
-</p>
 
-### 2. [Baking App](https://github.com/thatsabhi22/udacity-baking-app)
+### 2. [Baking App](https://github.com/thatsabhi22/baking-app)
 
-<image align="right" src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
+<image align="right" src="https://github.com/thatsabhi22/baking-app/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/udacity-baking-app) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/udacity-baking-app)![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/udacity-baking-app?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/udacity-baking-app?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/baking-app) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/baking-app)![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/baking-app?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/baking-app?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
 
 **Baking App** app will allow a user to select a recipe and see video-guided steps for how to complete it. It requests the data from Internet in form of JSON. The JSON file contains the recipes' instructions, ingredients, videos and images you will need to complete this project. Don’t assume that all steps of the recipe have a video. Some may have a video, an image, or no visual media at all. This app makes use of fragments very efficiently on the tablet as well as phone screen.
 The fragments functionalities are being re-used in both screens.
@@ -83,18 +79,14 @@ The fragments functionalities are being re-used in both screens.
  
 
 ### Screenshots
-<img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/t1.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/t2.png" width="40%"/> <img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/t3.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/t4.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s1.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s2.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s3.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s4.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s5.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s6.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s7.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s8.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s9.png" width="40%"/>
+<img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/t1.png" width="40%"/><img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/t2.png" width="40%"/> <img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/t3.png" width="40%"/><img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/t4.png" width="40%"/><img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/s1.png" width="40%"/><img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/s2.png" width="40%"/><img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/s3.png" width="40%"/><img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/s4.png" width="40%"/><img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/s5.png" width="40%"/><img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/s6.png" width="40%"/><img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/s7.png" width="40%"/><img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/s8.png" width="40%"/><img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/s9.png" width="40%"/>
 
-#### Review from the Reviewer (Udacity)
-<p align="left">
-<image src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/BakingAppReview.png" width="35%"/>
-</p>
 
-### 3. [Joke Telling App](https://github.com/thatsabhi22/udacity-build-it-bigger)
+### 3. [Joke Telling App](https://github.com/thatsabhi22/joke-telling-app)
 
-<image align="right" src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
+<image align="right" src="https://github.com/thatsabhi22/joke-telling-app/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/udacity-build-it-bigger) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/udacity-build-it-bigger)![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/udacity-build-it-bigger?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/udacity-build-it-bigger?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/joke-telling-app) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/joke-telling-app)![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/joke-telling-app?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/joke-telling-app?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
 
 **Joke Telling App** App retrieves jokes from Google Cloud Endpoints module and displays them via an Activity from the Android Library.
 
@@ -114,19 +106,14 @@ The fragments functionalities are being re-used in both screens.
 - Paid/free flavors. The paid flavor has no ads, and no unnecessary dependencies.
 
 ### Screenshots
-<img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s1.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s2.png" width="40%"/> <img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s3.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s4.png" width="60%"/>
+<img src="https://github.com/thatsabhi22/joke-telling-app/blob/master/Screenshots/s1.png" width="40%"/><img src="https://github.com/thatsabhi22/joke-telling-app/blob/master/Screenshots/s2.png" width="40%"/> <img src="https://github.com/thatsabhi22/joke-telling-app/blob/master/Screenshots/s3.png" width="40%"/><img src="https://github.com/thatsabhi22/joke-telling-app/blob/master/Screenshots/s4.png" width="60%"/>
 
-#### Review from the Reviewer (Udacity)
-<p align="left">
-<image src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/BuildItBiggerReview.png" width="35%"/>
-</p>
+### 4. [Popular Movies, Stage 1](https://github.com/thatsabhi22/popular-movies-1-app)
 
-### 4. [Popular Movies, Stage 1](https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app)
+<image align="right" src="https://github.com/thatsabhi22/popular-movies-1-app/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
 
-<image align="right" src="https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
-
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/udacity-popular-movies-stage-1-app) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/udacity-popular-movies-stage-1-app)
-![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/udacity-popular-movies-stage-1-app?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/udacity-popular-movies-stage-1-app?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/popular-movies-1-app) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/popular-movies-1-app)
+![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/popular-movies-1-app?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/popular-movies-1-app?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
 
 **Popular Movies, Stage 1** app helps users discover popular and recent movies. It requests the data from Internet on MoviesDB API and this ensures data is latest and updated.
 
@@ -147,20 +134,15 @@ The fragments functionalities are being re-used in both screens.
 * Incorporate libraries to simplify the amount of code you need to write 
 
 ### Screenshots
-<img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app/blob/master/Screenshots/1.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app/blob/master/Screenshots/2.png" width="40%"/> <img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app/blob/master/Screenshots/3.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app/blob/master/Screenshots/4.png" width="40%"/>
-
-#### Review from the Reviewer (Udacity)
-<p align="left">
-<image src="https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app/blob/master/PopularMoviesS1.png" width="35%"/>
-</p>
+<img src="https://github.com/thatsabhi22/popular-movies-1-app/blob/master/Screenshots/1.png" width="40%"/><img src="https://github.com/thatsabhi22/popular-movies-1-app/blob/master/Screenshots/2.png" width="40%"/> <img src="https://github.com/thatsabhi22/popular-movies-1-app/blob/master/Screenshots/3.png" width="40%"/><img src="https://github.com/thatsabhi22/popular-movies-1-app/blob/master/Screenshots/4.png" width="40%"/>
 
 
-### 5. [Popular Movies, Stage 2](https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app)
+### 5. [Popular Movies, Stage 2](https://github.com/thatsabhi22/popular-movies-app)
 
-<image align="right" src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
+<image align="right" src="https://github.com/thatsabhi22/popular-movies-app/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/udacity-popular-movies-stage-2-app) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/udacity-popular-movies-stage-2-app)
-![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/udacity-popular-movies-stage-2-app?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/udacity-popular-movies-stage-2-app?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/popular-movies-app) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/popular-movies-app)
+![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/popular-movies-app?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/popular-movies-app?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
 
 **Popular Movies, Stage 2** app add additional functionality to the app built in Stage 1
 
@@ -187,18 +169,14 @@ The fragments functionalities are being re-used in both screens.
  * Modify the existing sorting criteria for the main view to include an additional pivot to show their favorites collection.
 
 ### Screenshots
-<img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/Screenshots/1.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/Screenshots/2.png" width="40%"/> <img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/Screenshots/3.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/Screenshots/4.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/Screenshots/5.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/Screenshots/6.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/Screenshots/7.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/Screenshots/8.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/Screenshots/9.png" width="40%"/>
+<img src="https://github.com/thatsabhi22/popular-movies-app/blob/master/Screenshots/1.png" width="40%"/><img src="https://github.com/thatsabhi22/popular-movies-app/blob/master/Screenshots/2.png" width="40%"/> <img src="https://github.com/thatsabhi22/popular-movies-app/blob/master/Screenshots/3.png" width="40%"/><img src="https://github.com/thatsabhi22/popular-movies-app/blob/master/Screenshots/4.png" width="40%"/><img src="https://github.com/thatsabhi22/popular-movies-app/blob/master/Screenshots/5.png" width="40%"/><img src="https://github.com/thatsabhi22/popular-movies-app/blob/master/Screenshots/6.png" width="40%"/><img src="https://github.com/thatsabhi22/popular-movies-app/blob/master/Screenshots/7.png" width="40%"/><img src="https://github.com/thatsabhi22/popular-movies-app/blob/master/Screenshots/8.png" width="40%"/><img src="https://github.com/thatsabhi22/popular-movies-app/blob/master/Screenshots/9.png" width="40%"/>
 
-#### Review from the Reviewer (Udacity)
-<p align="left">
-<image src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/PopularMoviesS2.png" width="35%"/>
-</p>
 
-### 6. [XYZ Reader App](https://github.com/thatsabhi22/udacity-xyz-reader)
+### 6. [XYZ Reader App](https://github.com/thatsabhi22/xyz-reader-app)
 
-<image align="right" src="https://github.com/thatsabhi22/udacity-xyz-reader/blob/master/XYZReader/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
+<image align="right" src="https://github.com/thatsabhi22/xyz-reader-app/blob/master/XYZReader/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/udacity-xyz-reader) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/udacity-xyz-reader)![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/udacity-xyz-reader?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/udacity-xyz-reader?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/xyz-reader-app) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/xyz-reader-app)![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/xyz-reader-app?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/xyz-reader-app?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
 
 **XYZ Reader App** is a redesign of app to follow the Material Design guidelines and translate a set of static design mocks to a living and breathing app.
 
@@ -212,19 +190,14 @@ The fragments functionalities are being re-used in both screens.
 
 ### Screenshots
 &nbsp;
-<img src="https://github.com/thatsabhi22/udacity-xyz-reader/blob/master/Screenshots/s1.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-xyz-reader/blob/master/Screenshots/s2.png" width="40%"/> <img src="https://github.com/thatsabhi22/udacity-xyz-reader/blob/master/Screenshots/s3.png" width="40%"/>
+<img src="https://github.com/thatsabhi22/xyz-reader-app/blob/master/Screenshots/s1.png" width="40%"/><img src="https://github.com/thatsabhi22/xyz-reader-app/blob/master/Screenshots/s2.png" width="40%"/> <img src="https://github.com/thatsabhi22/xyz-reader-app/blob/master/Screenshots/s3.png" width="40%"/>
 
-#### Review from the Reviewer (Udacity)
-<p align="left">
-<image src="https://github.com/thatsabhi22/udacity-xyz-reader/blob/master/XYZReaderReview.png" width="35%"/>
-</p>
+### 7. [Sandwich Club App](https://github.com/thatsabhi22/sandwich-club-app)
 
-### 7. [Sandwich Club App](https://github.com/thatsabhi22/udacity-sandwich-club-app)
+<image align="right" src="https://github.com/thatsabhi22/sandwich-club-app/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
 
-<image align="right" src="https://github.com/thatsabhi22/udacity-sandwich-club-app/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
-
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/udacity-sandwich-club-app) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/udacity-sandwich-club-app)
-![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/udacity-sandwich-club-app?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/udacity-sandwich-club-app?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/sandwich-club-app) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/sandwich-club-app)
+![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/sandwich-club-app?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/sandwich-club-app?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
 
 **Sandwich Club app** to show the details of each sandwich once it is selected.
 
@@ -237,7 +210,7 @@ Building a layout and populating its fields from data received as JSON is a comm
 
 #### Review from the Reviewer (Udacity)
 <p align="left">
-<image src="https://github.com/thatsabhi22/udacity-sandwich-club-app/blob/master/SandwichClubReview.png" width="35%"/>
+<image src="https://github.com/thatsabhi22/sandwich-club-app/blob/master/SandwichClubReview.png" width="35%"/>
 </p>
 
 ---
