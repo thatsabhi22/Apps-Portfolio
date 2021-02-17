@@ -208,11 +208,6 @@ Building a layout and populating its fields from data received as JSON is a comm
 * Design an activity layout
 * Populate all fields in the layout accordingly
 
-#### Review from the Reviewer (Udacity)
-<p align="left">
-<image src="https://github.com/thatsabhi22/sandwich-club-app/blob/master/SandwichClubReview.png" width="35%"/>
-</p>
-
 ---
 
 ## License
