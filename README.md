@@ -129,7 +129,10 @@ The fragments functionalities are being re-used in both screens.
 - Paid/free flavors. The paid flavor has no ads, and no unnecessary dependencies.
 
 ### Screenshots
-<img src="https://github.com/thatsabhi22/joke-telling-app/blob/master/Screenshots/s1.png" width="40%"/><img src="https://github.com/thatsabhi22/joke-telling-app/blob/master/Screenshots/s2.png" width="40%"/> <img src="https://github.com/thatsabhi22/joke-telling-app/blob/master/Screenshots/s3.png" width="40%"/><img src="https://github.com/thatsabhi22/joke-telling-app/blob/master/Screenshots/s4.png" width="60%"/>
+![s1](https://user-images.githubusercontent.com/24782276/220788889-f7c70bc3-f125-4dd2-808d-d266e3608603.png)
+![s2](https://user-images.githubusercontent.com/24782276/220788895-1e87b7c2-d4fc-49bb-bad7-6f0bd49ba46e.png)
+![s3](https://user-images.githubusercontent.com/24782276/220788898-0c5154ed-c632-4cc2-a627-04f86765ca71.png)
+<img width="400" alt="s4" src="https://user-images.githubusercontent.com/24782276/220788901-a96b1a19-1a68-41d8-badd-610ad509b2e9.png">
 
 ### 4. [Popular Movies, Stage 2](https://github.com/thatsabhi22/popular-movies-app)
 
@@ -224,7 +227,13 @@ The fragments functionalities are being re-used in both screens.
 
 ### Screenshots
 &nbsp;
-<img src="https://github.com/thatsabhi22/xyz-reader-app/blob/master/Screenshots/s1.png" width="40%"/><img src="https://github.com/thatsabhi22/xyz-reader-app/blob/master/Screenshots/s2.png" width="40%"/> <img src="https://github.com/thatsabhi22/xyz-reader-app/blob/master/Screenshots/s3.png" width="40%"/>
+![s1](https://user-images.githubusercontent.com/24782276/220787754-de015b1e-ed1b-4a0c-a036-ffdd9983045d.png)
+![s2](https://user-images.githubusercontent.com/24782276/220787757-bbb01050-4a63-48fe-883e-2b4dcb94f060.png)
+![s3](https://user-images.githubusercontent.com/24782276/220787763-b29ebb89-eabf-4564-be65-c9a1fb544be2.png)
+![s4](https://user-images.githubusercontent.com/24782276/220787771-14b43988-ff3e-47e7-9a81-b47788700f58.png)
+![s5](https://user-images.githubusercontent.com/24782276/220787777-ef665aa1-c50f-41c1-bac0-97f4ce28098c.png)
+![s6](https://user-images.githubusercontent.com/24782276/220787779-dd529114-aa05-414c-a71a-f27e7ce0b391.png)
+
 
 ### 7. [Sandwich Club App](https://github.com/thatsabhi22/sandwich-club-app)
 
