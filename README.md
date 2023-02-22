@@ -45,7 +45,18 @@ This portfolio of Apps enables me to use the Android development platform best-p
 - User Profile gets created for personalisation on favorite space videos
 
 ### Screenshots
-<img src="https://github.com/thatsabhi22/spacebinge-app/blob/master/Screenshots/s1.png" width="40%"/><img src="https://github.com/thatsabhi22/spacebinge-app/blob/master/Screenshots/s2.png" width="40%"/> <img src="https://github.com/thatsabhi22/spacebinge-app/blob/master/Screenshots/s3.png" width="40%"/><img src="https://github.com/thatsabhi22/spacebinge-app/blob/master/Screenshots/s4.png" width="40%"/><img src="https://github.com/thatsabhi22/spacebinge-app/blob/master/Screenshots/s5.png" width="40%"/><img src="https://github.com/thatsabhi22/spacebinge-app/blob/master/Screenshots/s6.png" width="40%"/><img src="https://github.com/thatsabhi22/spacebinge-app/blob/master/Screenshots/s7.png" width="40%"/><img src="https://github.com/thatsabhi22/spacebinge-app/blob/master/Screenshots/s8.png" width="60%"/><img src="https://github.com/thatsabhi22/spacebinge-app/blob/master/Screenshots/s9.png" width="40%"/><img src="https://github.com/thatsabhi22/spacebinge-app/blob/master/Screenshots/s10.png" width="40%"/>
+![s1](https://user-images.githubusercontent.com/24782276/218275464-16b32529-2584-491a-a766-214e135c6aad.png)
+![s2](https://user-images.githubusercontent.com/24782276/218275475-bec190b1-b47a-46a0-9e52-277c362a46a6.png)
+![s3](https://user-images.githubusercontent.com/24782276/218275480-a0c76580-2028-416e-8a42-30983eeab583.png)
+![s4](https://user-images.githubusercontent.com/24782276/218275482-afa4e498-8495-4dda-bb78-a25c6c721f9f.png)
+![s5](https://user-images.githubusercontent.com/24782276/218275484-ff7545c1-fea1-4033-8932-1d6dea1e8bbb.png)
+![s6](https://user-images.githubusercontent.com/24782276/218275487-e7aaeb5a-89c6-4ab3-9912-f3732a2f024f.png)
+![s7](https://user-images.githubusercontent.com/24782276/218275488-5bda14ae-a5db-4218-94a4-69aa32106611.png)
+![s8](https://user-images.githubusercontent.com/24782276/218275489-5ee5bd31-3a05-48dd-b8f5-e013aba2f998.png)
+![s9](https://user-images.githubusercontent.com/24782276/218275492-6d881872-7167-4d3d-bab2-b67ee20b751c.png)
+![s10](https://user-images.githubusercontent.com/24782276/218275493-011d9797-abd3-43ef-ad24-03f6c9602236.png)
+![s11](https://user-images.githubusercontent.com/24782276/218275494-90ed25c0-79ec-438c-9c53-dbdcfec83c25.png)
+![s12](https://user-images.githubusercontent.com/24782276/218275495-4a8faff0-f5be-4782-b714-482543859ea4.png)
 
 
 ### 2. [Baking App](https://github.com/thatsabhi22/baking-app)
@@ -79,7 +90,19 @@ The fragments functionalities are being re-used in both screens.
  
 
 ### Screenshots
-<img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/t1.png" width="40%"/><img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/t2.png" width="40%"/> <img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/t3.png" width="40%"/><img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/t4.png" width="40%"/><img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/s1.png" width="40%"/><img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/s2.png" width="40%"/><img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/s3.png" width="40%"/><img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/s4.png" width="40%"/><img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/s5.png" width="40%"/><img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/s6.png" width="40%"/><img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/s7.png" width="40%"/><img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/s8.png" width="40%"/><img src="https://github.com/thatsabhi22/baking-app/blob/master/Screenshots/s9.png" width="40%"/>
+![s1](https://user-images.githubusercontent.com/24782276/218275594-034776c5-aaa8-4ef1-9629-1e9e99f12996.png)
+![s2](https://user-images.githubusercontent.com/24782276/218275602-59843793-76a2-49c8-915d-49c842c74700.png)
+![s3](https://user-images.githubusercontent.com/24782276/218275603-f5c36f55-8a6a-4ef9-9e52-f02cb925c87a.png)
+![s4](https://user-images.githubusercontent.com/24782276/218275604-412431e0-9d30-4c4a-b488-d91dc78b40f2.png)
+![s5](https://user-images.githubusercontent.com/24782276/218275605-7c53b76d-5aa8-4c15-9200-c507b4c630f5.png)
+![s6](https://user-images.githubusercontent.com/24782276/218275606-78aa6e96-d316-4b6e-a200-74f164a4bc2e.png)
+![s7](https://user-images.githubusercontent.com/24782276/218275609-44fa98b0-cf28-43f6-87c3-9bb125632b99.png)
+![s8](https://user-images.githubusercontent.com/24782276/218275610-18542927-a936-4787-95fb-b4d0db5173dc.png)
+![s9](https://user-images.githubusercontent.com/24782276/218275612-2e1cb3cf-8997-4bbd-88b9-9b479610382d.png)
+![t1](https://user-images.githubusercontent.com/24782276/218275613-de30b49b-2e4f-46ee-8da7-c04da16e7316.png)
+![t2](https://user-images.githubusercontent.com/24782276/218275615-a3f0cc5e-8ed6-4a50-b936-f75e09f82b43.png)
+![t3](https://user-images.githubusercontent.com/24782276/218275616-572354e1-e00c-4076-9370-172dcd2370ec.png)
+![t4](https://user-images.githubusercontent.com/24782276/218275618-cefc1589-2c19-4058-b758-35fa527cbae2.png)
 
 
 ### 3. [Joke Telling App](https://github.com/thatsabhi22/joke-telling-app)
@@ -108,36 +131,7 @@ The fragments functionalities are being re-used in both screens.
 ### Screenshots
 <img src="https://github.com/thatsabhi22/joke-telling-app/blob/master/Screenshots/s1.png" width="40%"/><img src="https://github.com/thatsabhi22/joke-telling-app/blob/master/Screenshots/s2.png" width="40%"/> <img src="https://github.com/thatsabhi22/joke-telling-app/blob/master/Screenshots/s3.png" width="40%"/><img src="https://github.com/thatsabhi22/joke-telling-app/blob/master/Screenshots/s4.png" width="60%"/>
 
-### 4. [Popular Movies, Stage 1](https://github.com/thatsabhi22/popular-movies-1-app)
-
-<image align="right" src="https://github.com/thatsabhi22/popular-movies-1-app/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
-
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/popular-movies-1-app) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/popular-movies-1-app)
-![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/popular-movies-1-app?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/popular-movies-1-app?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
-
-**Popular Movies, Stage 1** app helps users discover popular and recent movies. It requests the data from Internet on MoviesDB API and this ensures data is latest and updated.
-
-#### Topics learnt/explored
-- Picasso
-- AsyncTask Loader
-- JSON Parsing
-- RecyclerView with ViewHolder
-- Grid Layout
-
-#### This app will:
-* Present the user with a grid arrangement of movie posters upon launch.
-* Allow your user to change sort order via a setting:
-    * The sort order can be by most popular or by highest-rated
-* Allow the user to tap on a movie poster and transition to a details screen with additional information.
-* Fetch data from the Internet with theMovieDB API.
-* Use adapters and custom list layouts to populate list views.
-* Incorporate libraries to simplify the amount of code you need to write 
-
-### Screenshots
-<img src="https://github.com/thatsabhi22/popular-movies-1-app/blob/master/Screenshots/1.png" width="40%"/><img src="https://github.com/thatsabhi22/popular-movies-1-app/blob/master/Screenshots/2.png" width="40%"/> <img src="https://github.com/thatsabhi22/popular-movies-1-app/blob/master/Screenshots/3.png" width="40%"/><img src="https://github.com/thatsabhi22/popular-movies-1-app/blob/master/Screenshots/4.png" width="40%"/>
-
-
-### 5. [Popular Movies, Stage 2](https://github.com/thatsabhi22/popular-movies-app)
+### 4. [Popular Movies, Stage 2](https://github.com/thatsabhi22/popular-movies-app)
 
 <image align="right" src="https://github.com/thatsabhi22/popular-movies-app/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
 
@@ -169,7 +163,47 @@ The fragments functionalities are being re-used in both screens.
  * Modify the existing sorting criteria for the main view to include an additional pivot to show their favorites collection.
 
 ### Screenshots
-<img src="https://github.com/thatsabhi22/popular-movies-app/blob/master/Screenshots/1.png" width="40%"/><img src="https://github.com/thatsabhi22/popular-movies-app/blob/master/Screenshots/2.png" width="40%"/> <img src="https://github.com/thatsabhi22/popular-movies-app/blob/master/Screenshots/3.png" width="40%"/><img src="https://github.com/thatsabhi22/popular-movies-app/blob/master/Screenshots/4.png" width="40%"/><img src="https://github.com/thatsabhi22/popular-movies-app/blob/master/Screenshots/5.png" width="40%"/><img src="https://github.com/thatsabhi22/popular-movies-app/blob/master/Screenshots/6.png" width="40%"/><img src="https://github.com/thatsabhi22/popular-movies-app/blob/master/Screenshots/7.png" width="40%"/><img src="https://github.com/thatsabhi22/popular-movies-app/blob/master/Screenshots/8.png" width="40%"/><img src="https://github.com/thatsabhi22/popular-movies-app/blob/master/Screenshots/9.png" width="40%"/>
+![1](https://user-images.githubusercontent.com/24782276/218276641-7318598a-7383-461d-b435-b8de7f3658bc.png)
+![2](https://user-images.githubusercontent.com/24782276/218276643-59c7c441-0de2-4198-8ecd-4a9454c1ae8e.png)
+![3](https://user-images.githubusercontent.com/24782276/218276644-065faf09-77c8-45db-b86b-b83d1e082eba.png)
+![4](https://user-images.githubusercontent.com/24782276/218276646-3d78afb0-30a8-48f8-9f1b-cd1acb7c009f.png)
+![5](https://user-images.githubusercontent.com/24782276/218276648-1bde3d60-88e5-44dd-8141-f3b1bbda4d35.png)
+![6](https://user-images.githubusercontent.com/24782276/218276649-feae2327-3133-41d9-925d-5f1795596a07.png)
+![7](https://user-images.githubusercontent.com/24782276/218276651-eb1cf1d3-3d47-4921-abcc-4529dbc48f5b.png)
+![8](https://user-images.githubusercontent.com/24782276/218276655-8103e121-9b0f-42f7-bbd2-4b64cffe5947.png)
+![9](https://user-images.githubusercontent.com/24782276/218276657-60ff9047-ac54-4933-850a-03321d1b6658.png)
+
+
+### 5. [Popular Movies, Stage 1](https://github.com/thatsabhi22/popular-movies-1-app)
+
+<image align="right" src="https://github.com/thatsabhi22/popular-movies-1-app/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
+
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/popular-movies-1-app) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/popular-movies-1-app)
+![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/popular-movies-1-app?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/popular-movies-1-app?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
+
+**Popular Movies, Stage 1** app helps users discover popular and recent movies. It requests the data from Internet on MoviesDB API and this ensures data is latest and updated.
+
+#### Topics learnt/explored
+- Picasso
+- AsyncTask Loader
+- JSON Parsing
+- RecyclerView with ViewHolder
+- Grid Layout
+
+#### This app will:
+* Present the user with a grid arrangement of movie posters upon launch.
+* Allow your user to change sort order via a setting:
+    * The sort order can be by most popular or by highest-rated
+* Allow the user to tap on a movie poster and transition to a details screen with additional information.
+* Fetch data from the Internet with theMovieDB API.
+* Use adapters and custom list layouts to populate list views.
+* Incorporate libraries to simplify the amount of code you need to write 
+
+### Screenshots
+![1](https://user-images.githubusercontent.com/24782276/218276723-6209df9c-1ef8-4dcc-a63b-5366dc0ede8e.png)
+![2](https://user-images.githubusercontent.com/24782276/218276726-6f11ad48-b9cf-4421-b93a-cba856922dba.png)
+![3](https://user-images.githubusercontent.com/24782276/218276730-2fd2f114-d4c1-4511-a8c4-a36922ca58e0.png)
+![4](https://user-images.githubusercontent.com/24782276/218276732-38ea0b8c-7252-475d-872d-caedadfc7420.png)
 
 
 ### 6. [XYZ Reader App](https://github.com/thatsabhi22/xyz-reader-app)
